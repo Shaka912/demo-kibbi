@@ -15,6 +15,14 @@ export const jobOpeningsInputs = [
     id: 4,
     placeholder: "Job Location Type",
   },
+  {
+    id: 5,
+    placeholder: "Schedule",
+  },
+  {
+    id: 6,
+    placeholder: "designation",
+  },
 ];
 
 export const notifications = [

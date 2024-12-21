@@ -1,0 +1,73 @@
+/* Super Title */
+
+.super_title {
+  font-size: 32px;
+  line-height: normal;
+}
+
+/* Title */
+
+.title {
+  font-size: var(--text-title);
+  line-height: normal;
+}
+
+/* Subtitle */
+
+.subtitle {
+  font-size: var(--text-subtitle);
+  line-height: normal;
+}
+
+/* Card Title */
+
+.card_title {
+  font-size: 26px;
+  line-height: normal;
+}
+
+/* Card Subtitle */
+
+.card_subtitle_title {
+  font-size: 20px;
+  line-height: normal;
+}
+
+/* Normal */
+
+.normal {
+  font-size: 16px;
+  line-height: normal;
+}
+
+.small {
+  font-size: 14px;
+  line-height: normal;
+}
+/* Color stylings Starts */
+
+.high_dark {
+  color: var(--content-high-dark);
+}
+
+.high_blue {
+  color: var(--content-high-blue);
+}
+
+.mid {
+  color: var(--content-mid);
+}
+
+.green {
+  color: #1c8c56;
+}
+.highRed {
+  color: #631f61;
+}
+.neutral01 {
+  color: #d9ddea;
+}
+.blue {
+  color: #0483f8;
+}
+/* Color stylings Ends */

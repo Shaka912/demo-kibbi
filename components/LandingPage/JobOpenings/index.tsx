@@ -28,7 +28,7 @@ function JobOpenings() {
           />
         </div>
         {/* inputs */}
-        <div className="flex gap-6 overflow-x-auto scrol my-4">
+        <div className="flex gap-6 overflow-x-auto scrollbar-hide my-4">
           {jobOpeningsInputs.map((input) => (
             <Input
               key={input.id}
